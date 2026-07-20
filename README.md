@@ -1,28 +1,24 @@
 # Hi, I'm Atharv Joshi 👋
 
-Software Developer focused on scalable backend systems, cloud-native architectures, and AI-powered solutions.  
-Currently pursuing my **MS in Information Systems @ Northeastern University**, Boston, MA.
+Software Engineer with a Master's in Information Systems from Northeastern University, passionate about backend engineering, AI applications, and cloud technologies.
 
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:joshi.atharv1@northeastern.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/joshiatharv1)
+## 💼 Experience
 
----
+* **Software Engineer Intern @ IpserLabs** – Modernized a legacy Java application, built developer tools, and automated onboarding workflows.
+* **Software Developer Co-op @ IpserLabs** – Developed internal React applications and engineering automation tools.
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-| Project | Stack | Links |
-|---|---|---|
-| **Agentic AI Recipe-to-Grocery Assistant** | Java, Spring Boot, OpenAI API | — |
-| **Patient Management Microservices Platform** | Java, Spring Boot, Kafka, gRPC | [Code](https://github.com/joshiatharv1/patient-management) |
-| **Smart City Air Quality Monitoring System** | Kafka, Flink, AWS | [Code](https://github.com/joshiatharv1/air-quality) |
-| **Inventory Manager** | Next.js, TypeScript, Node.js, PostgreSQL, AWS | [Code](https://github.com/joshiatharv1/inventory-manager) |
+* **Agentic AI Travel Rewards Assistant** – LangGraph-based AI agent with RAG and external API integration.
+* **Health Grid** – Event-driven healthcare platform using Spring Boot, Kafka, and Docker.
+* **AI Coding Agent** – Repository-aware coding assistant with Gemini Function Calling.
+* **Real-Time Web Analytics** – High-throughput analytics platform built with FastAPI and TimescaleDB.
 
----
+## 🛠️ Tech Stack
 
-## 🧰 Stack
-`Java` `Python` `TypeScript` `Spring Boot` `Node.js` `AWS` `Docker` `Kafka` `PostgreSQL` `Redis`
+**Java • Python • Spring Boot • FastAPI • React • LangGraph • OpenAI • AWS • Docker • PostgreSQL • Redis • Kafka**
 
----
+## 📫 Connect
 
-<p align="center"><i>"Building scalable systems and AI-powered solutions."</i></p>
+* **LinkedIn:** linkedin.com/in/atharvjoshi444
+* **Email:** [joshi.atharv1@northeastern.edu](mailto:joshi.atharv1@northeastern.edu)
